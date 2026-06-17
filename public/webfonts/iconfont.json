@@ -1,0 +1,58 @@
+{
+  "id": "5197383",
+  "name": "notiontext",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "21112716",
+      "name": "抖音",
+      "font_class": "douyin1",
+      "unicode": "e6a6",
+      "unicode_decimal": 59046
+    },
+    {
+      "icon_id": "33779902",
+      "name": "抖音-copy-copy",
+      "font_class": "douyin-copy",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "9383916",
+      "name": "csdn",
+      "font_class": "CN_csdnnet",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11588751",
+      "name": "csdn",
+      "font_class": "csdn",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "21102722",
+      "name": "抖音",
+      "font_class": "douyin",
+      "unicode": "e68b",
+      "unicode_decimal": 59019
+    },
+    {
+      "icon_id": "21840769",
+      "name": "gitee",
+      "font_class": "gitee",
+      "unicode": "ec52",
+      "unicode_decimal": 60498
+    },
+    {
+      "icon_id": "26404207",
+      "name": "csdn",
+      "font_class": "csdn1",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
